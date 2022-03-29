@@ -1,4 +1,9 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=7fe8ff&text=비전을%20품은%20SW%20Engineer&height=150&fontSize=40&desc=몰입으로%20삶의%20에너지를%20얻는다&descAlignY=20&descAlign=23)
+<!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=7fe8ff&text=비전을%20품은%20SW%20ENGINEER,%20김명준입니다!&height=150&fontSize=40&desc=몰입으로%20에너지를%20얻는다&descAlignY=20&descAlign=19) -->
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=7fe8ff&text=비전을%20품은%20SW%20ENGINEER,&height=120&fontSize=40&desc=몰입으로%20에너지를%20얻는다&descAlignY=22&descAlign=50)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=7fe8ff&text=김명준입니다!&height=50&fontSize=40&AlignY=22)
+
+
 
 <div align=center>
   <img  style="width:200px;" src ="https://user-images.githubusercontent.com/82504981/160657475-ff847571-08eb-407b-8de6-51dd4c5b0b7c.png" />

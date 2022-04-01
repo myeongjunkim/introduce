@@ -18,6 +18,7 @@
   
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
+  ###  스타트업 연합 SQURD 개발자 파트 수료
   ### 📫 ilikerunning@likelion.org
   ### 📒 [Start-Up Notion](https://grandiose-behavior-af2.notion.site/INTRODUCE-70241813d440400e8249328e0d2d2751) 클릭!
 

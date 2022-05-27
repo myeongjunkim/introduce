@@ -19,7 +19,7 @@
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료
   ### 📫 ilikerunning@likelion.org
-  ### <a href="https://grandiose-behavior-af2.notion.site/INTRODUCE-70241813d440400e8249328e0d2d2751" target="_blank">📒 Start-Up Notion</a> 클릭!
+  ### <a href="https://grandiose-behavior-af2.notion.site/INTRODUCE-3a884ef533ab4a34afc11d5ad21ceb43" target="_blank">📒 Start-Up Notion</a> 클릭!
   ### <a href="http://solved.ac/ilikerunning"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ilikerunning"/></a>
 
 </div>

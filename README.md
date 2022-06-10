@@ -20,6 +20,6 @@
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료
   ### 📫 ilikerunning@likelion.org
   ### <a href="https://url.kr/xhb6mn" target="_blank">📒 Start-Up Notion</a> 클릭!
-  ### <a href="http://solved.ac/ilikerunning"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ilikerunning"/></a>
+<!--   ### <a href="http://solved.ac/ilikerunning"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ilikerunning"/></a> -->
 
 </div>

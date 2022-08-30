@@ -16,6 +16,7 @@
   ### About me
   
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공
+  ### 🖥 Naver Boostcamp Challenge 7th 수료
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료
   ### 📫 ilikerunning@likelion.org

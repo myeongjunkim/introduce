@@ -17,7 +17,7 @@
   
   ### About me
   
-  ### 📌 AlphaPrime Backend Server Developer [click](https://www.alphaprime.co.kr/)
+  ### 📌 AlphaPrime BE Developer [click](https://www.alphaprime.co.kr/)
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공
   ### 🖥 Naver Boostcamp Challenge 7th 수료
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진

@@ -15,7 +15,7 @@
   
  
   
-  ### About me
+  <h3>About me</h3>
   
   ### 📌 AlphaPrime BE Developer [click](https://www.alphaprime.co.kr/)
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공

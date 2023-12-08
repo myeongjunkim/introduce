@@ -22,7 +22,7 @@
   ### 💻 MakeUs-Challenge CMC 13th Server 파트
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료
-  ### 📫 ilikerunning@likelion.org
+  ### 📫 ilikerunning22@gmail.com
   ### <a href="https://url.kr/uhnb1m" target="_blank">📒 Start-Up Notion</a> 클릭!
   ### [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ilikerunning)](https://solved.ac/profile/ilikerunning)
 

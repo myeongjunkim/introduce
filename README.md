@@ -13,7 +13,7 @@
   <h3>About me</h3>
 
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공
-  ### 📌 AlphaPrime BE Developer - [Alphasquare](https://www.alphasquare.co.kr/)
+  ### 📌 AlphaPrime BE Developer - [Alphasquare](https://www.alphasquare.co.kr/home)
   ### 💻 MakeUs-Challenge CMC 13th Server 파트
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료

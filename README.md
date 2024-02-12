@@ -11,14 +11,14 @@
  
   
   <h3>About me</h3>
-  
-  ### 📌 AlphaPrime BE Developer [click](https://www.alphaprime.co.kr/)
+
   ### 📖 중앙대학교 기계공학부 & SW 벤처 전공
+  ### 📌 AlphaPrime BE Developer - [Alphasquare](https://www.alphasquare.co.kr/)
   ### 💻 MakeUs-Challenge CMC 13th Server 파트
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트 수료
   ### 📫 ilikerunning22@gmail.com
-  ### <a href="https://url.kr/uhnb1m" target="_blank">📒 Start-Up Notion</a> 클릭!
+  ### <a href="https://ihaveadream.tistory.com/" target="_blank">📒 Tistory 꿈이 있는 청년</a>
   ### [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ilikerunning)](https://solved.ac/profile/ilikerunning)
 
 </div>

@@ -12,9 +12,11 @@
   
   <h3>About me</h3>
 
-  ### 📖 중앙대학교 CAU 기계공학부 & SW 벤처 학사
+  ### ✈️ SW마에스트로 15th 수료
+  ### 🙏🏻 기독교 서비스 PrayU 앱/웹 운영 - [PrayU](https://linktr.ee/prayu.site)
   ### 📌 AlphaPrime BE Developer - [Alphasquare](https://www.alphasquare.co.kr/home)
   ### 💻 메이커스 챌린지 CMC 13th Server 파트
+  ### 📖 중앙대학교 CAU 기계공학부 & SW 벤처 학사
   ### 🦁 멋쟁이사자처럼 Likelion 9th 수료, 10th 운영진
   ### ⛵ 대학연합 스타트업팀 SQUAD 개발자 파트
   ### 📫 ilikerunning22@gmail.com
